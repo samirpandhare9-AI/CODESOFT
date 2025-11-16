@@ -8,6 +8,7 @@ CodSoft AI Internship - Rule-Based Chatbot
 * **Status:** Completed and Uploaded.
 * **File:** AI_TASK1_Chatbot.py
 * **Key Concepts Used:** Python Dictionaries, Functions, If-Else Statements, and While Loops.
+  
 ### TASK 4: Recommendation System 🎬
 
 * **Project Goal:** To build a simple user-based collaborative filtering system to suggest movies.
@@ -17,12 +18,6 @@ CodSoft AI Internship - Rule-Based Chatbot
 
 ---
 
-### TASK 2: Tic-Tac-Toe AI 🎮
-
-* **Project Goal:** To create an unbeatable Tic-Tac-Toe game using the Minimax Algorithm.
-* **Status:** Completed and Uploaded.
-* **File:** AI_TASK2_TicTacToe.py
-* **Key Concepts Used:** Minimax Algorithm, Game Theory, Recursion.
 ### TASK 2: Tic-Tac-Toe AI 🎮
 
 * **Project Goal:** To create an unbeatable Tic-Tac-Toe game using the Minimax Algorithm.
