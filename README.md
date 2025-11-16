@@ -8,5 +8,3 @@ CodSoft AI Internship - Rule-Based Chatbot
 * **Status:** Completed and Uploaded.
 * **File:** AI_TASK1_Chatbot.py
 * **Key Concepts Used:** Python Dictionaries, Functions, If-Else Statements, and While Loops.
-
----
